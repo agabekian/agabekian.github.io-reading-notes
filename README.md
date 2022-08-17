@@ -4,3 +4,4 @@
 [Things I want to know more about](/know.md)<br>
 [React basics](/01.md) <br>
 [State and Props](/02.md)
+[Passing Functions as Props](/03.md)
