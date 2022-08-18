@@ -3,6 +3,6 @@
 ## Code **301** - _Intermediate Software Development_
 [Things I want to know more about](/know.md)<br>
 [React basics](/01.md) <br>
-[State and Props](/02.md)
-[Passing Functions as Props](/03.md)
-[Forms](/04.md)
+[State and Props](/02.md)<br>
+[Passing Functions as Props](/03.md)<br>
+[Forms](/04.md)<br>
