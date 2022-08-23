@@ -1,42 +1,42 @@
-`Who is Roy Fielding?
+* Who is Roy Fielding?
 
 >helped write the first web servers, that sent documents across the internet… and then he did a ton of research explaining why the web works the way it does. His name is on the specification for the protocol that is used to get pages from servers to your browser.[link](/https://gist.github.com/brookr/5977550)
 
 
-`Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?
+* Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?
 
-`What is the HTTP protocol that Fielding and his friends created?
+* What is the HTTP protocol that Fielding and his friends created?
 
 > describing the location of something anywhere in the world from anywhere in the world. It's the foundation of the web.
 
-`What does a GET do?
+* What does a GET do?
 
-retrieve information
+_retrieve information_
 
-`What does a POST do?
+* What does a POST do?
 
-add, write something to another system
+_add, write something to another system_
 
-`What does PUT do?
+* What does PUT do?
 
-replace something in another system
+_replace something in another system_
 
-`What does PATCH do?
+* What does PATCH do?
 
-partial update
+_partial update_
 
-`Geocoding API
+* Geocoding API
 
-Did you get your API key?
+Did you get your API key? - YES
 
-`Weather Bit API - YES
+* Weather Bit API
 
-Did you get your API key?
+Did you get your API key?  - YES
 
-`Yelp API Docs 
+* Yelp API Docs 
 
-Did you get your API key? I guess so
+Did you get your API key? - I guess so
 
-`The Movie DB API Docs YES
+* The Movie DB API Docs
 
 Did you get your API key? - YES
