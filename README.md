@@ -8,3 +8,4 @@
 [Forms](/04.md)<br>
 [Putting it all together](/05.md)<br>
 [Node.js](/06.md)
+[Rest])(/07.md)
