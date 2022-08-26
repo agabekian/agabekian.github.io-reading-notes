@@ -10,4 +10,4 @@
 [Node.js](/06.md)<br>
 [Rest](/07.md)<br>
 [API Design Best Practices](/08.md)<br>
-[[Understanding the JavaScript Call Stack](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4) and [JavaScript error messages](/https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)](/10.md)<br>
+[Understanding the JavaScript Call Stack](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4) and [[JavaScript error messages](/https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)](/10.md)<br>
