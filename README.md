@@ -12,5 +12,5 @@
 [API Design Best Practices](/08.md)<br>
 Functional Programming Concepts  & Modules(/09.md)<br>
 [Understanding the JavaScript Call Stack and JavaScript error messages](/10.md)<br>
-[Mongo, Mongoose](/11.md)
-[CRUD](/12.md)
+[Mongo, Mongoose](/11.md)<br>
+[CRUD](/12.md)<br>
