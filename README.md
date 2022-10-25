@@ -17,4 +17,5 @@ Functional Programming Concepts  & Modules(/09.md)<br>
 
 # 401
 [Data Structures and Algorithms](/401.1.md)
+[Class 02](/401.2.md)
 
