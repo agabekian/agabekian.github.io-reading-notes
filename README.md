@@ -14,3 +14,7 @@ Functional Programming Concepts  & Modules(/09.md)<br>
 [Understanding the JavaScript Call Stack and JavaScript error messages](/10.md)<br>
 [Mongo, Mongoose](/11.md)<br>
 [CRUD](/12.md)<br>
+
+# 401
+[Data Structures and Algorithms](/401.1.md)
+
