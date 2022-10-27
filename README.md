@@ -10,12 +10,15 @@
 [Node.js](/06.md)<br>
 [Rest](/07.md)<br>
 [API Design Best Practices](/08.md)<br>
-Functional Programming Concepts  & Modules(/09.md)<br>
+[Functional Programming Concepts  & Modules](/09.md)<br>
 [Understanding the JavaScript Call Stack and JavaScript error messages](/10.md)<br>
 [Mongo, Mongoose](/11.md)<br>
 [CRUD](/12.md)<br>
 
 # 401
-[Data Structures and Algorithms](/401.1.md)
-[Class 02](/401.2.md)
+[01 Data Structures and Algorithms](/401.1.md)
+[02](/401.2.md)
+[03 Primitives vs Objects, Exceptons, Scanner!](/401.3.md)
+[04 Primitives vs Objects, Exceptons, Scanner!](/401.3.md)
+
 
