@@ -19,6 +19,7 @@
 [01 Data Structures and Algorithms](/401.1.md)
 [02](/401.2.md)
 [03 Primitives vs Objects, Exceptons, Scanner!](/401.3.md)
-[04 Primitives vs Objects, Exceptons, Scanner!](/401.3.md)
+[04 OOP](/401.4.md)
+[05 Linked Lists](/401.5.md)
 
 
