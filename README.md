@@ -21,5 +21,6 @@
 [03 Primitives vs Objects, Exceptons, Scanner!](/401.3.md)
 [04 OOP](/401.4.md)
 [05 Linked Lists](/401.5.md)
+[06 More OOP, static, design patterns](/401.6.md)
 
 
