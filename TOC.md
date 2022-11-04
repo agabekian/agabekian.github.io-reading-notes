@@ -22,5 +22,9 @@
 [04 OOP](/401.4.md)
 [05 Linked Lists](/401.5.md)
 [06 More OOP, static, design patterns](/401.6.md)
+[10 Queues and Stacks](/401.10.md)
+[08 DRY and Rule of three.](/401.8.md)
+[09 Https](/401.9.md)
+[10 Queues and Stacks](/401.10.md)
 
 
