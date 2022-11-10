@@ -27,7 +27,8 @@
 [09 Https](/401.9.md)
 [10 Queues and Stacks](/401.10.md)
 [11 Spring MVC](/401.11.md)
-[12 JPA](401.12.md)
-
+[12 JPA](/401.12.md)
+[13 One to Many](/401.13.md)
+[14 bCrypt](/401.14.md)
 
 
